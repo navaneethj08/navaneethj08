@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Navaneeth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
 
 I'm a
-<b>Frontend Web Developer.<b><br>
+<b>Frontend Web Developer.</b><br>
 The crossover between designing and coding has always been of interest to me, I have a wide range of skills that include web designing (Figma, AdobeXD), front-end development ( HTML5, CSS3, Bootstrap, Javascript, ReactJs, Responsive)
 
 
